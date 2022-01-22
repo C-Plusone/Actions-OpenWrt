@@ -11,6 +11,8 @@
 name: Build PHICOMM-K3 OpenWrt
 
 on:
+  repository_dispatch:
+  workflow_dispatch:
 
 
 env:
