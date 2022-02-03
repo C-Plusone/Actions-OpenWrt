@@ -20,4 +20,4 @@ echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.defa
 
 # 添加额外软件包
 # git clone https://github.com/P3TERX/xxx package/lean
-git clone -b master --single-branch https://github.com/LGA1150/openwrt-fullconenat package/lean
+# git clone -b master --single-branch https://github.com/LGA1150/openwrt-fullconenat package/lean
